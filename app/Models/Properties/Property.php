@@ -16,7 +16,7 @@ class Property extends Model
 {
     use PropertyRelationship, Uuid, PropertyMethod;
 
-    protected $table = 'agents';
+    protected $table = 'properties';
 
     protected $fillable = [
         'head_description',
