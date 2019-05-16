@@ -62,5 +62,15 @@
     },
     "engines": {
         "node": ">=6.0.0"
+    },
+    "dependencies": {
+        "cropperjs": "^1.5.1",
+        "datatables.net-bs": "^1.10.19",
+        "datatables.net-responsive-bs": "^2.2.3",
+        "fontawesome": "^5.6.3",
+        "html5sortable": "^0.9.10",
+        "pnotify": "^4.0.0",
+        "scrollreveal": "^4.0.5",
+        "slick-carousel": "^1.8.1"
     }
 }
