@@ -7,7 +7,7 @@
 @include('frontend.includes.head')
 
 
-<body class="index_slider menu-default hover-default scroll-animation slider--slideInUp compact ">
+<body class="menu-default hover-default scroll-animation slider--slideInUp compact sidebar-hide ">
 
     <div id="app" class="box js-box">
 
@@ -20,6 +20,8 @@
 
 
         <div class="site-wrap js-site-wrap">
+            @yield('breadcrumbs')
+
             <div class="container">
                 @include('includes.partials.messages')
             </div>

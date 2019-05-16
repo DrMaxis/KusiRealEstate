@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Models\Properties\Tenures;
+namespace App\Models\Properties\Utilites;
 
 use App\Models\Traits\Uuid;
 use Illuminate\Database\Eloquent\Model;

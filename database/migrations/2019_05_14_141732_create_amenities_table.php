@@ -15,6 +15,7 @@ class CreateAmenitiesTable extends Migration
     {
         Schema::create('amenities', function (Blueprint $table) {
             $table->bigIncrements('id');
+            $table->uuid('uuid');
             $table->string('amenity')->nullable();
             $table->string('slug')->nullable();
             $table->timestamps();

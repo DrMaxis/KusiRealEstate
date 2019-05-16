@@ -7,7 +7,7 @@ namespace App\Models\Properties\Utilities\Traits\Relationship;
 /**
  * Class TenureRelationship
  */
-trait TenureRelationship
+trait UtilityRelationship
 {
 
 

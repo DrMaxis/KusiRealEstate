@@ -31,7 +31,7 @@ class CreateAgentsTable extends Migration
             $table->timestamps();
         });
         
-        Schema::create('agents', function(Blueprint $table) {
+        Schema::table('agents', function(Blueprint $table) {
             $table->foreign('user_id')->references('id')->on('users')->onUpdate('cascade')->onDelete('set null');
         });
       

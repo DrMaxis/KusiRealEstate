@@ -15,6 +15,7 @@ class CreateListingTypesTable extends Migration
     {
         Schema::create('listing_types', function (Blueprint $table) {
             $table->bigIncrements('id');
+            $table->uuid('uuid');
             $table->string('type')->nullable();
             $table->string('slug')->nullable();
             $table->timestamps();

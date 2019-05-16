@@ -9,7 +9,7 @@ use App\Models\Properties\Accessibilities\Traits\Relationship\AccessibilityRelat
 
 
 /**
- * Class Agency.
+ * Class Accessibility.
  */
 class Accessibility extends Model
 {

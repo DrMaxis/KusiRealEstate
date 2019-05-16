@@ -21,6 +21,19 @@ class DatabaseSeeder extends Seeder
         ]);
 
         $this->call(AuthTableSeeder::class);
+        $this->call(AgenciesTableSeeder::class);
+        $this->call(AgentsTableSeeder::class);
+        $this->call(ListingTypesTableSeeder::class);
+        $this->call(PropertyTypesTableSeeder::class);
+        $this->call(PropertiesTableSeeder::class);
+        $this->call(CommercialStatusTableSeeder::class);
+        $this->call(MarketStatusTableSeeder::class);
+        $this->call(SaleStatusTableSeeder::class);
+        $this->call(AccessibilitiesTableSeeder::class);
+        $this->call(AmenitiesTableSeeder::class);
+        $this->call(TenuresTableSeeder::class);
+        $this->call(UtilitiesTableSeeder::class);
+
 
         Model::reguard();
     }

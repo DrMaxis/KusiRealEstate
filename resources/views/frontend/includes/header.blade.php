@@ -6,7 +6,7 @@
                 <use xlink:href="#icon-logo--mob"></use>
               </svg></a>
             <div class="header__settings">
-              <div class="header__settings-column">
+            {{--   <div class="header__settings-column">
                 <div class="header info-title">
                   <p>
                     <span>
@@ -17,8 +17,8 @@
                     </span>
                   </p>
                 </div>
-              </div>
-           
+              </div> --}}
+             
             </div>
             <div class="header__contacts"><a href="tel:+12025550135" class="header__phone">
                 <svg class="header__phone-icon">

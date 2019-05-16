@@ -303,10 +303,7 @@
                   <option>2</option>
                 </select>
               </div>
-              <div class="form-group">
-                <label for="in-datetime" class="control-label">Date Range</label>
-                <input type="text" id="in-datetime" data-start-date="12/03/2015" data-end-date="12/22/2015" data-time-picker="true" data-single-picker="false" class="js-datetimerange form-control">
-              </div>
+             
               <div class="form-group">
                 <div class="form__mode">
                   <button type="button" data-mode="input" class="form__mode-btn js-input-mode">Input</button>

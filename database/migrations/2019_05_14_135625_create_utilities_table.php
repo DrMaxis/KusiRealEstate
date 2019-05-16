@@ -15,6 +15,7 @@ class CreateUtilitiesTable extends Migration
     {
         Schema::create('utilities', function (Blueprint $table) {
             $table->bigIncrements('id');
+            $table->uuid('uuid');
             $table->string('utility')->nullable();
             $table->string('slug')->nullable();
             $table->timestamps();

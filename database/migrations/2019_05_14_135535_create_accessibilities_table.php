@@ -15,6 +15,7 @@ class CreateAccessibilitiesTable extends Migration
     {
         Schema::create('accessibilities', function (Blueprint $table) {
             $table->bigIncrements('id');
+            $table->uuid('uuid');
             $table->string('accessibility')->nullable();
             $table->string('slug')->nullable();
             $table->timestamps();

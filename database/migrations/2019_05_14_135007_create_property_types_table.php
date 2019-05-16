@@ -15,6 +15,7 @@ class CreatePropertyTypesTable extends Migration
     {
         Schema::create('property_types', function (Blueprint $table) {
             $table->bigIncrements('id');
+            $table->uuid('uuid');
             $table->string('type')->nullable();
             $table->string('slug')->nullable();
             $table->timestamps();

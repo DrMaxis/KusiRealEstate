@@ -15,6 +15,7 @@ class CreateTenuresTable extends Migration
     {
         Schema::create('tenures', function (Blueprint $table) {
             $table->bigIncrements('id');
+            $table->uuid('uuid');
             $table->string('tenure')->nullable();
             $table->string('slug')->nullable();
             $table->timestamps();

@@ -1,4 +1,4 @@
-<head lang="en">
+<head>
     <meta charset="UTF-8">
     <title>@yield('title', app_name())</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0, shrink-to-fit=no">
@@ -16,8 +16,6 @@
 
         <link rel="stylesheet" href="{{asset('css/global/vendor.css')}}">
         <link rel="stylesheet" href="{{asset('css/global/basetheme.css')}}">
-   
-    <link rel="icon" href="assets/img/favicon.ico" type="image/x-icon">
 
     {{-- See https://laravel.com/docs/5.5/blade#stacks for usage --}}
     @stack('before-styles')

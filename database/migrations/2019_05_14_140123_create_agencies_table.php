@@ -15,6 +15,7 @@ class CreateAgenciesTable extends Migration
     {
         Schema::create('agencies', function (Blueprint $table) {
             $table->bigIncrements('id');
+            $table->uuid('uuid');
             $table->string('agency')->nullable();
             $table->string('logo')->nullable();
             $table->string('slug')->nullable();

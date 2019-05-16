@@ -5,7 +5,8 @@ namespace App\Models\Properties\Types\Listing;
 use App\Models\Traits\Uuid;
 use Illuminate\Database\Eloquent\Model;
 use App\Models\Properties\Types\Listing\Traits\Method\ListingTypeMethod;
-use App\Models\Properties\Tenures\Traits\Relationship\ListingTypeRelationship;
+use App\Models\Properties\Types\Listing\Traits\Relationship\ListingTypeRelationship;
+
 
 
 /**

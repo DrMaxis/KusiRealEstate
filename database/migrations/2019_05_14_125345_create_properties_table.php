@@ -29,11 +29,11 @@ class CreatePropertiesTable extends Migration
             $table->double('rental_price')->nullable();
             $table->double('buy_now_price')->nullable();
             $table->string('price-details')->nullable();
-            $table->string('available_date')->nullable();
+            $table->timestamp('available_date')->nullable();
             $table->string('address')->nullable();
             $table->string('city')->nullable();
             $table->string('state')->nullable();
-            $table->integer('zip')->nullable();
+            $table->string('zip')->nullable();
             $table->string('zone')->nullable();
             $table->string('county')->nullable();
             $table->string('country')->nullable();
@@ -45,6 +45,7 @@ class CreatePropertiesTable extends Migration
             $table->string('bedrooms')->nullable();
             $table->string('bathrooms')->nullable();
             $table->integer('beds')->nullable();
+            $table->boolean('featured')->default(false);
             $table->integer('year_built')->nullable();
             $table->timestamp('last_updated')->nullable(); 
             $table->timestamps();

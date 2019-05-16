@@ -1,13 +1,13 @@
 <?php
 
-namespace App\Models\Properties\Tenures\Traits\Relationship;
+namespace App\Models\Properties\Types\Listing\Traits\Relationship;
 
 
 
 /**
- * Class TenureRelationship
+ * Class ListingTypeRelationship
  */
-trait TenureRelationship
+trait ListingTypeRelationship
 {
 
 

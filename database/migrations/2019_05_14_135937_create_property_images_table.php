@@ -15,6 +15,7 @@ class CreatePropertyImagesTable extends Migration
     {
         Schema::create('property_images', function (Blueprint $table) {
             $table->bigIncrements('id');
+            $table->uuid('uuid');
             $table->unsignedBigInteger('property_id');
             $table->string('image')->nullable();
             $table->string('caption')->nullable();
@@ -24,7 +25,7 @@ class CreatePropertyImagesTable extends Migration
             $table->timestamps();
         });
 
-        Schema::create('property_images', function(Blueprint $table) {
+        Schema::table('property_images', function (Blueprint $table) {
             $table->foreign('property_id')->references('id')->on('properties')->onUpdate('cascade')->onDelete('cascade');
         });
     }
