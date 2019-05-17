@@ -13,7 +13,7 @@
 
 @section('breadcrumbs')
 
-@include('frontend.properties.includes.breadcrumb')
+@include('frontend.properties.allproperties.partials.breadcrumb')
 
 @endsection
 
@@ -21,7 +21,7 @@
 @section('content')
    
 
-@include('frontend.properties.partials.allProperties')
+@include('frontend.properties.allproperties.partials.properties')
 
 
 @endsection

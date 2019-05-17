@@ -21,11 +21,10 @@ Route::post('contact/send', [ContactController::class, 'send'])->name('contact.s
  * All route names are prefixed with 'frontend.'.
  */
 
- Route::get('/properties', [PropertiesController::class, 'index'])->name('properties-index');
+ 
+Route::get('/properties', [PropertiesController::class, 'index'])->name('properties.index');
 
-
-
-
+ 
 
 /*
  * These frontend controllers require the user to be logged in

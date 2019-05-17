@@ -19,7 +19,7 @@ class MarketStatusTableSeeder extends Seeder
         ]);
 
         MarketStatus::create([
-            'option' => 'Publ',
+            'option' => 'Published',
         ]);
 
         MarketStatus::create([

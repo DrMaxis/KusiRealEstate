@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers\Frontend;
 
+use App\Models\Properties\Property;
 use App\Http\Controllers\Controller;
 
 /**
@@ -14,6 +15,8 @@ class HomeController extends Controller
      */
     public function index()
     {
-        return view('frontend.index');
+
+        $properties = Property::all();
+        return view('frontend.index')->with('properties', $properties);
     }
 }

@@ -7,7 +7,7 @@
 @include('frontend.includes.head')
 
 
-<body class="menu-default hover-default scroll-animation slider--slideInUp compact sidebar-hide ">
+<body class="menu-default hover-default scroll-animation slider--slideInUp compact ">
 
     <div id="app" class="box js-box">
 

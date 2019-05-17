@@ -23,11 +23,18 @@ class CreatePropertiesTable extends Migration
             $table->string('slug')->unique()->nullable();
             $table->text('meta_description')->nullable();
             $table->string('mls_id')->nullable();
+            $table->string('property_type')->nullable();
+            $table->string('listing_type')->nullable();
+            $table->string('commercial_status')->nullable();
+            $table->string('market_status')->nullable();
+            $table->string('sale_status')->nullable();
+            $table->string('agency')->nullable();
             $table->double('home_size')->nullable();
             $table->double('land_size')->nullable();
             $table->double('asking_price')->nullable();
             $table->double('rental_price')->nullable();
             $table->double('buy_now_price')->nullable();
+            $table->double('down_payment')->nullable();
             $table->string('price-details')->nullable();
             $table->timestamp('available_date')->nullable();
             $table->string('address')->nullable();

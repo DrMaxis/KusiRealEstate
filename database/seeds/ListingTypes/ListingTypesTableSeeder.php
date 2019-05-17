@@ -15,22 +15,22 @@ class ListingTypesTableSeeder extends Seeder
     {
     
         ListingType::create([
-            'type' => 'Sale',
+            'type' => 'For Sale',
             /* 'slug' => slugify('Studio Unwanted Homes'), */
         ]);
 
         ListingType::create([
-            'type' => 'Rent',
+            'type' => 'For Rent',
            /*  'slug' => slugify('Antwi Real Estate'), */
         ]);
 
         ListingType::create([
-            'type' => 'Lease',
+            'type' => 'For Lease',
             /* 'slug' => slugify('Kusi Real Estate'), */
         ]);
 
         ListingType::create([
-            'type' => 'Sale & Rent',
+            'type' => 'For Sale & Rent',
             /* 'slug' => slugify('Williams Real Estate'), */
         ]);
 
