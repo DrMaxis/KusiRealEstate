@@ -8,12 +8,12 @@
           <div class="listing listing--grid listing--lg-4">
             <div class="listing__item">
               <div data-sr="enter bottom move 80px, scale(0), over 0s" data-animate-end="animate-end" class="worker js-unhide-block vcard worker--index">
-                <div class="worker__photo"><a href="agent_profile.html" class="item-photo item-photo--static"><img src="assets/media-demo/workers/worker-1.jpg" alt="Christopher Pakulla" class="photo"/></a>
+                <div class="worker__photo"><a href="agent_profile.html" class="item-photo item-photo--static"><img src="https://www.gravatar.com/avatar/6a903cd8c26a4cb1a7781f54651d63e6.jpg?s=80&amp;d=mm&amp;r=g" alt="Christopher Pakulla" class="photo"/></a>
                   <div class="worker__details"><span class="worker__post">Realtor, West USA Realty</span>
                     <div class="worker__links"><a class="worker__link">
                         <svg class="worker__link-icon">
                           <use xlink:href="#icon-mail"></use>
-                        </svg></a><a class="worker__link"><i class="fa fa-linkedin"></i></a><a class="worker__link"><i class="fa fa-facebook"></i></a><a class="worker__link"><i class="fa fa-twitter"></i></a></div>
+                        </svg></a><a class="worker__link"><<i class="fab fa-linkedin-in"></i></a><a class="worker__link"><i class="fab fa-facebook"></i></a><a class="worker__link"><i class="fab fa-twitter"></i></a></div>
                   </div>
                 </div>
                 <div class="worker__info">
@@ -25,12 +25,12 @@
             </div>
             <div class="listing__item">
               <div data-sr="enter bottom move 80px, scale(0), over 0.3s" data-animate-end="animate-end" class="worker js-unhide-block vcard worker--index">
-                <div class="worker__photo"><a href="agent_profile.html" class="item-photo item-photo--static"><img src="assets/media-demo/workers/worker-2.jpg" alt="Lisa Wemert" class="photo"/></a>
+                <div class="worker__photo"><a href="agent_profile.html" class="item-photo item-photo--static"><img src="https://www.gravatar.com/avatar/6a903cd8c26a4cb1a7781f54651d63e6.jpg?s=80&amp;d=mm&amp;r=g" alt="Lisa Wemert" class="photo"/></a>
                   <div class="worker__details"><span class="worker__post">Managing Broker/Partner, e-PRO</span>
                     <div class="worker__links"><a class="worker__link">
                         <svg class="worker__link-icon">
                           <use xlink:href="#icon-mail"></use>
-                        </svg></a><a class="worker__link"><i class="fa fa-linkedin"></i></a><a class="worker__link"><i class="fa fa-facebook"></i></a><a class="worker__link"><i class="fa fa-twitter"></i></a></div>
+                        </svg></a><a class="worker__link"><<i class="fab fa-linkedin-in"></i></a><a class="worker__link"><i class="fab fa-facebook"></i></a><a class="worker__link"><i class="fab fa-twitter"></i></a></div>
                   </div>
                 </div>
                 <div class="worker__info">
@@ -42,12 +42,12 @@
             </div>
             <div class="listing__item">
               <div data-sr="enter bottom move 80px, scale(0), over 0.6s" data-animate-end="animate-end" class="worker js-unhide-block vcard worker--index">
-                <div class="worker__photo"><a href="agent_profile.html" class="item-photo item-photo--static"><img src="assets/media-demo/workers/worker-3.jpg" alt="Mariusz Ciesla" class="photo"/></a>
+                <div class="worker__photo"><a href="agent_profile.html" class="item-photo item-photo--static"><img src="https://www.gravatar.com/avatar/6a903cd8c26a4cb1a7781f54651d63e6.jpg?s=80&amp;d=mm&amp;r=g" alt="Mariusz Ciesla" class="photo"/></a>
                   <div class="worker__details"><span class="worker__post">Real Estate Professional</span>
                     <div class="worker__links"><a class="worker__link">
                         <svg class="worker__link-icon">
                           <use xlink:href="#icon-mail"></use>
-                        </svg></a><a class="worker__link"><i class="fa fa-linkedin"></i></a><a class="worker__link"><i class="fa fa-facebook"></i></a><a class="worker__link"><i class="fa fa-twitter"></i></a></div>
+                        </svg></a><a class="worker__link"><<i class="fab fa-linkedin-in"></i></a><a class="worker__link"><i class="fab fa-facebook"></i></a><a class="worker__link"><i class="fab fa-twitter"></i></a></div>
                   </div>
                 </div>
                 <div class="worker__info">
@@ -59,12 +59,12 @@
             </div>
             <div class="listing__item">
               <div data-sr="enter bottom move 80px, scale(0), over 0.8999999999999999s" data-animate-end="animate-end" class="worker js-unhide-block vcard worker--index">
-                <div class="worker__photo"><a href="agent_profile.html" class="item-photo item-photo--static"><img src="assets/media-demo/workers/worker-4.jpg" alt="Vladimir Babic" class="photo"/></a>
+                <div class="worker__photo"><a href="agent_profile.html" class="item-photo item-photo--static"><img src="https://www.gravatar.com/avatar/6a903cd8c26a4cb1a7781f54651d63e6.jpg?s=80&amp;d=mm&amp;r=g" alt="Vladimir Babic" class="photo"/></a>
                   <div class="worker__details"><span class="worker__post">Realtor, CDPE</span>
                     <div class="worker__links"><a class="worker__link">
                         <svg class="worker__link-icon">
                           <use xlink:href="#icon-mail"></use>
-                        </svg></a><a class="worker__link"><i class="fa fa-linkedin"></i></a><a class="worker__link"><i class="fa fa-facebook"></i></a><a class="worker__link"><i class="fa fa-twitter"></i></a></div>
+                        </svg></a><a class="worker__link"><<i class="fab fa-linkedin-in"></i></a><a class="worker__link"><i class="fab fa-facebook"></i></a><a class="worker__link"><i class="fab fa-twitter"></i></a></div>
                   </div>
                 </div>
                 <div class="worker__info">
