@@ -48,7 +48,7 @@
                 </div>
               </li>
               
-              <li class="navbar__item js-dropdown"><a class="navbar__link">User
+             {{--  <li class="navbar__item js-dropdown"><a class="navbar__link">User
                   <svg class="navbar__arrow">
                     <use xlink:href="#icon-arrow-right"></use>
                   </svg></a>
@@ -75,11 +75,11 @@
                     </ul>
                   </div>
                 </div>
-              </li>
+              </li> --}}
              
              
               <li class="navbar__item"><a href="contacts.html" class="navbar__link">Contact Us</a></li>
-              <li class="navbar__item js-dropdown"><a class="navbar__link">Dashboard
+              {{-- <li class="navbar__item js-dropdown"><a class="navbar__link">Dashboard
                   <svg class="navbar__arrow">
                     <use xlink:href="#icon-arrow-right"></use>
                   </svg></a>
@@ -90,7 +90,7 @@
                     </svg>Back
                   </button>
                   <div class="navbar__submenu">
-                    {{-- <ul class="navbar__subnav">
+                     <ul class="navbar__subnav">
                       <li class="navbar__subitem"><a href="dashboard.html" class="navbar__sublink">Dashboard</a></li>
                       <li class="navbar__subitem"><a href="dashboard_property_new.html" class="navbar__sublink">Add Listing</a></li>
                       <li class="navbar__subitem"><a href="dashboard_news.html" class="navbar__sublink">News Feed</a></li>
@@ -103,10 +103,10 @@
                       <li class="navbar__subitem"><a href="dashboard_statistics.html" class="navbar__sublink">Statistics</a></li>
                       <li class="navbar__subitem"><a href="dashboard_property.html" class="navbar__sublink">Property management</a></li>
                       <li class="navbar__subitem"><a href="dashboard_blog.html" class="navbar__sublink">Blog Management</a></li>
-                    </ul> --}}
+                    </ul> 
                   </div>
                 </div>
-              </li>
+              </li> --}}
               
             </ul>
             <!-- end of block  navbar__nav-->
