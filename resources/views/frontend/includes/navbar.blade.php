@@ -78,7 +78,7 @@
               </li> --}}
              
              
-              <li class="navbar__item"><a href="contacts.html" class="navbar__link">Contact Us</a></li>
+              <li class="navbar__item"><a href="" class="navbar__link">Contact Us</a></li>
               {{-- <li class="navbar__item js-dropdown"><a class="navbar__link">Dashboard
                   <svg class="navbar__arrow">
                     <use xlink:href="#icon-arrow-right"></use>
