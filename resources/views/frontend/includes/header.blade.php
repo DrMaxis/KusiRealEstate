@@ -23,7 +23,7 @@
             <div class="header__contacts"><a href="tel:+12025550135" class="header__phone">
                 <svg class="header__phone-icon">
                   <use xlink:href="#icon-phone"></use>
-                </svg><span class="header__span">+1 202 555 0135</span></a></div>
+                </svg><span class="header__span">+1 480-278-3234</span></a></div>
             <!-- end of block .header__contacts-->
             <div class="header__social">
               <div class="social social--header social--circles"><a href="#" class="social__item"><i class="fab fa-facebook"></i></a><a href="#" class="social__item"><i class="fab fa-twitter"></i></a><a href="#" class="social__item"><i class="fab fa-google-plus-square"></i></a></div>
