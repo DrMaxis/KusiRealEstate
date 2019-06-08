@@ -9,12 +9,12 @@
             </div>
             <div class="map__wrap">
               <div style="" data-infobox-theme="dark" class="map__view js-map-index-canvas"></div>
-            </div>
+            </div> 
             <div class="container">
               <div class="map__search">
                 <!-- BEGIN SEARCH-->
                 <form action="properties_listing_list.html" class="form form--flex form--search js-search-form form--banner-sidebar form--dark">
-                  <div class="row">
+                  {{-- <div class="row">
                     <div class="form-group">
                       <label for="in-keyword" class="control-label">Keyword</label>
                       <input type="text" id="in-keyword" placeholder="Text" class="form-control">
@@ -205,7 +205,8 @@
                       <button type="button" class="form__reset js-form-reset">Reset</button>
                       <button type="submit" class="form__submit">Search</button>
                     </div>
-                  </div>
+                  </div> --}}
+                  <script charset="UTF-8" type="text/javascript" id="idxwidgetsrc-30573" src="//pacificnorthlistings.idxbroker.com/idx/quicksearchjs.php?widgetid=30573"></script>
                 </form>
                 <!-- end of block-->
                 <!-- END SEARCH-->

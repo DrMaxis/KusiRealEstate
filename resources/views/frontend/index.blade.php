@@ -13,11 +13,11 @@
    
 
 
-
+{{-- 
 @include('frontend.partials.homepage.propertySlider')
-
-{{-- @include('frontend.partials.homepage.searchbox') --}}
-
+ --}}
+{{-- @include('frontend.partials.homepage.searchbox')
+ --}}
 @include('frontend.partials.homepage.propertyMap')
 
 @include('frontend.partials.homepage.teamShowcase')
@@ -33,9 +33,7 @@
 @include('frontend.partials.homepage.submitProperty')
 
 
-
-
-
+ 
 
 @endsection
 

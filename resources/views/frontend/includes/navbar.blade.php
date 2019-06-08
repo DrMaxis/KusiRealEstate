@@ -21,7 +21,7 @@
             <ul class="navbar__nav">
               <li class="navbar__item"><a href="{{route('frontend.index')}}" class="navbar__link">Home</a></li>
               <li class="navbar__item js-dropdown">
-                <a  href="{{route('frontend.properties.index')}}" class="navbar__link">
+                <a  href="{{-- {{route('frontend.properties.index')}} --}}" class="navbar__link">
                          Properties
                 </a>
 
@@ -30,7 +30,7 @@
                   <div class="navbar__submenu">
                     <h5 class="navbar__subtitle">Property Type</h5>
                     <ul class="navbar__subnav">
-                      <li class="navbar__subitem"><a href="{{route('frontend.properties.index')}}" class="navbar__sublink js-navbar-sublink">All Properties</a></li>
+                      <li class="navbar__subitem"><a href="{{-- {{route('frontend.properties.index')}} --}}" class="navbar__sublink js-navbar-sublink">All Properties</a></li>
 
                       <li class="navbar__subitem"><a href="property_details_projected.html" class="navbar__sublink js-navbar-sublink">Property projected</a></li>
                       <li class="navbar__subitem"><a href="property_details_agent.html" class="navbar__sublink js-navbar-sublink">Property & agent</a></li>

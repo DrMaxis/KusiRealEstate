@@ -19,4 +19,8 @@ class HomeController extends Controller
         $properties = Property::all();
         return view('frontend.index')->with('properties', $properties);
     }
+
+
+
+   
 }

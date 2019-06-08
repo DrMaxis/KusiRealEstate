@@ -7,8 +7,8 @@
             <div class="container">
               <div class="feature__content">
                 <div class="feature__header">
-                  <h3 data-sr="enter right ease-in-out 150px" class="feature__title">Meet Realtyspace</h3>
-                  <h4 data-sr="enter right ease-in-out 250px" class="feature__headline">Our mission is to empower consumers with information to make smart decisions. RealtySpace is a real estate marketplace dedicated to helping homeowners, home buyers, sellers, renters and agents find and share information about homes, real estate and home improvement.</h4>
+                  <h3 data-sr="enter right ease-in-out 150px" class="feature__title">Meet Pacific North</h3>
+                  <h4 data-sr="enter right ease-in-out 250px" class="feature__headline">Our mission is to empower consumers with information to make smart decisions. Pacific North is a real estate marketplace dedicated to helping homeowners, home buyers, sellers, renters and agents find and share information about homes, real estate and home improvement.</h4>
                 </div>
                 <!-- end of block .feature__header-->
                 <div class="feature__list">
@@ -31,7 +31,7 @@
                     <div class="feature__item-content">
                       <h3 class="feature__item-title">Good sales&amp;marketing</h3>
                       <div class="feature__text">
-                        <p>In addition, RealtySpace operates the largest real estate and rental advertising networks in the U.S. in partnership with Livemile Homes!</p>
+                        <p>In addition, Pacific North operates the largest real estate and rental advertising networks in the U.S. in partnership with Livemile Homes!</p>
                       </div>
                     </div>
                   </div>
