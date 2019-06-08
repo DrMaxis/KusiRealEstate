@@ -29,7 +29,7 @@ return [
         'general' => [
             'all_rights_reserved' => 'Hak Cipta Dilindungi.',
             'are_you_sure' => 'Anda yakin?',
-            'website_link' => 'Kusi Real Estate',
+            'website_link' => 'Pacific North Properties',
             'continue' => 'Lanjutjan',
             'member_since' => 'Anggota sejak',
             'minutes' => ' menit',

@@ -26,7 +26,7 @@ class PropertyTypesTableSeeder extends Seeder
 
         PropertyType::create([
             'type' => 'Industrial',
-            /* 'slug' => slugify('Kusi Real Estate'), */
+            /* 'slug' => slugify('Pacific North Properties'), */
         ]);
 
         PropertyType::create([

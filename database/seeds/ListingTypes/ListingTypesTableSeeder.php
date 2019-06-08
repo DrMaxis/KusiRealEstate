@@ -26,7 +26,7 @@ class ListingTypesTableSeeder extends Seeder
 
         ListingType::create([
             'type' => 'For Lease',
-            /* 'slug' => slugify('Kusi Real Estate'), */
+            /* 'slug' => slugify('Pacific North Properties'), */
         ]);
 
         ListingType::create([

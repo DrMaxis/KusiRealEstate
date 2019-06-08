@@ -25,8 +25,8 @@ class AgenciesTableSeeder extends Seeder
         ]);
 
         Agency::create([
-            'agency' => 'Kusi Real Estate',
-            'slug' => slugify('Kusi Real Estate'),
+            'agency' => 'Pacific North Properties',
+            'slug' => slugify('Pacific North Properties'),
         ]);
 
         Agency::create([

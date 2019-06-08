@@ -23,7 +23,7 @@ return [
     |
     */
 
-    'name' => env('APP_NAME', 'Kusi Real Estate'.app()->version()),
+    'name' => env('APP_NAME', 'Pacific North Properties'.app()->version()),
 
     /*
     |--------------------------------------------------------------------------

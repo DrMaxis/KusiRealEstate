@@ -31,7 +31,7 @@ return [
         'general' => [
             'all_rights_reserved' => 'כל הזכויות שמורות.',
             'are_you_sure' => 'האם את/ה בטוח/ה שאת/ה רוצה לעשות את זה?',
-            'website_link' => 'Kusi Real Estate',
+            'website_link' => 'Pacific North Properties',
             'continue' => 'המשך',
             'member_since' => 'חבר מאז',
             'minutes' => ' דקות',

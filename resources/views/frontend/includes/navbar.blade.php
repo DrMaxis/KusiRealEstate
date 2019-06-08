@@ -8,7 +8,7 @@
                   <span>
                       <h3>
                         <a href="{{route('frontend.index')}}" class="navbar__brand">
-                          Terry Kusi | Real Estate
+                          Pacific North Properties
                         </a>
                       </h3>
                     

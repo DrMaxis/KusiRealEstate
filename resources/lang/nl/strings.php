@@ -29,7 +29,7 @@ return [
         'general' => [
             'all_rights_reserved' => 'Alle Rechten Voorbehouden.',
             'are_you_sure' => 'Zeker?',
-            'website_link' => 'Kusi Real Estate',
+            'website_link' => 'Pacific North Properties',
             'continue' => 'Doorgaan',
             'member_since' => 'Lid sinds',
             'minutes' => ' minuten',

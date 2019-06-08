@@ -34,7 +34,7 @@ class PropertiesTableSeeder extends Seeder
             'commercial_status' => 'Owner Occupied',
             'market_status' => 'Sale By Tender',
             'sale_status' => 'New Contract',
-            'agency' => 'Kusi Real Estate',
+            'agency' => 'Pacific North Properties',
             'home_size' => 6598.00,
             'land_size' => 16598.00,
             'asking_price' => 599000,

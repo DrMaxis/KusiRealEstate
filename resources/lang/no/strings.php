@@ -29,7 +29,7 @@ return [
         'general' => [
             'all_rights_reserved' => 'Alle rettigheter forbeholdes.',
             'are_you_sure' => 'Er du sikker?',
-            'website_link' => 'Kusi Real Estate',
+            'website_link' => 'Pacific North Properties',
             'continue' => 'Fortsett',
             'member_since' => 'Medlem siden',
             'minutes' => ' minutter',

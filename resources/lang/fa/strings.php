@@ -31,7 +31,7 @@ return [
         'general' => [
             'all_rights_reserved' => 'همه حقوق محفوظ است.',
             'are_you_sure' => 'آیا مطمئن هستید که می‌خواهید این کار را انجام دهید؟',
-            'website_link' => 'Kusi Real Estate',
+            'website_link' => 'Pacific North Properties',
             'continue' => 'ادامه',
             'member_since' => 'عضویت از',
             'minutes' => ' دقیقه',

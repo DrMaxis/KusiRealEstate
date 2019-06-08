@@ -29,7 +29,7 @@ return [
         'general' => [
             'all_rights_reserved' => 'Tüm Hakları Saklıdır.',
             'are_you_sure' => 'Bunu yapmak istediğinize emin misiniz?',
-            'website_link' => 'Kusi Real Estate',
+            'website_link' => 'Pacific North Properties',
             'continue' => 'Devam et',
             'member_since' => 'Üyelik zamanı',
             'minutes' => ' dakika',

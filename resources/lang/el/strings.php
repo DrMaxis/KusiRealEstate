@@ -29,7 +29,7 @@ return [
         'general' => [
             'all_rights_reserved' => 'All Rights Reserved.',
             'are_you_sure' => 'Are you sure?',
-            'website_link' => 'Kusi Real Estate',
+            'website_link' => 'Pacific North Properties',
             'continue' => 'Continue',
             'member_since' => 'Member since',
             'minutes' => ' minutes',

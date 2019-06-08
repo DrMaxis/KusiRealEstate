@@ -30,7 +30,7 @@ return [
         'general' => [
             'all_rights_reserved' => 'Всі права захищені.',
             'are_you_sure' => 'Ви впевнені?',
-            'website_link' => 'Kusi Real Estate',
+            'website_link' => 'Pacific North Properties',
             'continue' => 'Продовжити',
             'member_since' => 'Користувач з',
             'minutes' => 'хвилин',
