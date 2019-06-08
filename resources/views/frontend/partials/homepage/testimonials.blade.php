@@ -15,7 +15,7 @@
                         </div>
                         <div class="review__info">
                           <div class="review__info-quote review__info-quote--open">&rdquo;</div>
-                          <p>Mariusz always addressed my questions professionally and in a very timely manner. Working with him was a pleasure and would come with my recommendation.
+                          <p>Terry always addressed my questions professionally and in a very timely manner. Working with him was a pleasure and would come with my recommendation.
                           </p>
                           <div class="review__info-quote review__info-quote--close">&ldquo;</div>
                         </div>
@@ -29,7 +29,7 @@
                         </div>
                         <div class="review__info">
                           <div class="review__info-quote review__info-quote--open">&rdquo;</div>
-                          <p>Mariusz always addressed my questions professionally and in a very timely manner. Working with him was a pleasure and would come with my recommendation.
+                          <p>Terry always addressed my questions professionally and in a very timely manner. Working with him was a pleasure and would come with my recommendation.
                           </p>
                           <div class="review__info-quote review__info-quote--close">&ldquo;</div>
                         </div>
@@ -43,7 +43,7 @@
                         </div>
                         <div class="review__info">
                           <div class="review__info-quote review__info-quote--open">&rdquo;</div>
-                          <p>Mariusz always addressed my questions professionally and in a very timely manner. Working with him was a pleasure and would come with my recommendation.
+                          <p>Terry always addressed my questions professionally and in a very timely manner. Working with him was a pleasure and would come with my recommendation.
                           </p>
                           <div class="review__info-quote review__info-quote--close">&ldquo;</div>
                         </div>
@@ -57,7 +57,7 @@
                         </div>
                         <div class="review__info">
                           <div class="review__info-quote review__info-quote--open">&rdquo;</div>
-                          <p>Mariusz always addressed my questions professionally and in a very timely manner. Working with him was a pleasure and would come with my recommendation.
+                          <p>Terry always addressed my questions professionally and in a very timely manner. Working with him was a pleasure and would come with my recommendation.
                           </p>
                           <div class="review__info-quote review__info-quote--close">&ldquo;</div>
                         </div>
