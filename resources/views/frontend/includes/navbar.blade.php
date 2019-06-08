@@ -90,7 +90,7 @@
                     </svg>Back
                   </button>
                   <div class="navbar__submenu">
-                    <ul class="navbar__subnav">
+                    {{-- <ul class="navbar__subnav">
                       <li class="navbar__subitem"><a href="dashboard.html" class="navbar__sublink">Dashboard</a></li>
                       <li class="navbar__subitem"><a href="dashboard_property_new.html" class="navbar__sublink">Add Listing</a></li>
                       <li class="navbar__subitem"><a href="dashboard_news.html" class="navbar__sublink">News Feed</a></li>
@@ -103,7 +103,7 @@
                       <li class="navbar__subitem"><a href="dashboard_statistics.html" class="navbar__sublink">Statistics</a></li>
                       <li class="navbar__subitem"><a href="dashboard_property.html" class="navbar__sublink">Property management</a></li>
                       <li class="navbar__subitem"><a href="dashboard_blog.html" class="navbar__sublink">Blog Management</a></li>
-                    </ul>
+                    </ul> --}}
                   </div>
                 </div>
               </li>
