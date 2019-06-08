@@ -13,7 +13,7 @@
                     <div class="worker__links"><a class="worker__link">
                         <svg class="worker__link-icon">
                           <use xlink:href="#icon-mail"></use>
-                        </svg></a><a class="worker__link"><<i class="fab fa-linkedin-in"></i></a><a class="worker__link"><i class="fab fa-facebook"></i></a><a class="worker__link"><i class="fab fa-twitter"></i></a></div>
+                        </svg></a><a class="worker__link"><i class="fab fa-linkedin-in"></i></a><a class="worker__link"><i class="fab fa-facebook"></i></a><a class="worker__link"><i class="fab fa-twitter"></i></a></div>
                   </div>
                 </div>
                 <div class="worker__info">
@@ -30,7 +30,7 @@
                     <div class="worker__links"><a class="worker__link">
                         <svg class="worker__link-icon">
                           <use xlink:href="#icon-mail"></use>
-                        </svg></a><a class="worker__link"><<i class="fab fa-linkedin-in"></i></a><a class="worker__link"><i class="fab fa-facebook"></i></a><a class="worker__link"><i class="fab fa-twitter"></i></a></div>
+                        </svg></a><a class="worker__link"><i class="fab fa-linkedin-in"></i></a><a class="worker__link"><i class="fab fa-facebook"></i></a><a class="worker__link"><i class="fab fa-twitter"></i></a></div>
                   </div>
                 </div>
                 <div class="worker__info">
@@ -47,7 +47,7 @@
                     <div class="worker__links"><a class="worker__link">
                         <svg class="worker__link-icon">
                           <use xlink:href="#icon-mail"></use>
-                        </svg></a><a class="worker__link"><<i class="fab fa-linkedin-in"></i></a><a class="worker__link"><i class="fab fa-facebook"></i></a><a class="worker__link"><i class="fab fa-twitter"></i></a></div>
+                        </svg></a><a class="worker__link"><i class="fab fa-linkedin-in"></i></a><a class="worker__link"><i class="fab fa-facebook"></i></a><a class="worker__link"><i class="fab fa-twitter"></i></a></div>
                   </div>
                 </div>
                 <div class="worker__info">
@@ -64,7 +64,7 @@
                     <div class="worker__links"><a class="worker__link">
                         <svg class="worker__link-icon">
                           <use xlink:href="#icon-mail"></use>
-                        </svg></a><a class="worker__link"><<i class="fab fa-linkedin-in"></i></a><a class="worker__link"><i class="fab fa-facebook"></i></a><a class="worker__link"><i class="fab fa-twitter"></i></a></div>
+                        </svg></a><a class="worker__link"><i class="fab fa-linkedin-in"></i></a><a class="worker__link"><i class="fab fa-facebook"></i></a><a class="worker__link"><i class="fab fa-twitter"></i></a></div>
                   </div>
                 </div>
                 <div class="worker__info">
