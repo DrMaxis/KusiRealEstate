@@ -13,11 +13,18 @@
    
 
 
+
+
+<script charset="UTF-8" type="text/javascript" id="idxwidgetsrc-32612" src="//pacificnorthlistings.idxbroker.com/idx/customslideshowjs.php?widgetid=32612"></script>
+
+
+
+
 {{-- 
 @include('frontend.partials.homepage.propertySlider')
  --}}
 {{-- @include('frontend.partials.homepage.searchbox')
- --}}
+ 
 @include('frontend.partials.homepage.propertyMap')
 
 @include('frontend.partials.homepage.teamShowcase')
@@ -32,7 +39,7 @@
 
 @include('frontend.partials.homepage.submitProperty')
 
-
+--}}
  
 
 @endsection
