@@ -26,7 +26,7 @@
                 </svg><span class="header__span">+1 202 555 0135</span></a></div>
             <!-- end of block .header__contacts-->
             <div class="header__social">
-              <div class="social social--header social--circles"><a href="#" class="social__item"><i class="fa fa-facebook"></i></a><a href="#" class="social__item"><i class="fa fa-twitter"></i></a><a href="#" class="social__item"><i class="fa fa-google-plus"></i></a></div>
+              <div class="social social--header social--circles"><a href="#" class="social__item"><i class="fab fa-facebook"></i></a><a href="#" class="social__item"><i class="fab fa-twitter"></i></a><a href="#" class="social__item"><i class="fab fa-google-plus-square"></i></a></div>
             </div>
             <div class="auth auth--header">
               <ul class="auth__nav">
