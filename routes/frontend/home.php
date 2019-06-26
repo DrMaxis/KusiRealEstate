@@ -23,7 +23,7 @@ Route::get('/test', [HomeController::class, 'test'])->name('index.test');
  */
 
  
-/* Route::get('/properties', [PropertiesController::class, 'index'])->name('properties.index'); */
+ Route::get('/properties', [PropertiesController::class, 'index'])->name('properties.index'); 
 
  
 

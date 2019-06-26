@@ -2,7 +2,7 @@
         <div class="container">
           <div class="row">
             <!-- BEGIN site-->
-            <div class="site site--main">
+            <div class="site site--main" style="width:100% !important;">
               <header class="site__header">
                 <h1 class="site__title">All Properties</h1>
                 <h5 class="site__headline">{{count($properties)}} <strong> Properties found</strong></h5>
@@ -40,7 +40,7 @@
                   <div class="widget__content">
                     <div class="listing listing--grid listing--lg-6 js-properties-list">
     
-                      @forelse($properties as $property) 
+                      {{-- @forelse($properties as $property) 
                       <div class="listing__item">
                         <div class="properties properties--grid">
                           <div class="properties__thumb"><a href="property_details.html" class="item-photo"><img src="{{propertyImage($property->image)}}" alt=""/>
@@ -82,7 +82,10 @@
                         </div>
     
                         @endforelse
-    
+     --}}
+
+     <script charset="UTF-8" type="text/javascript" id="idxwidgetsrc-32613" src="//pacificnorthlistings.idxbroker.com/idx/customshowcasejs.php?widgetid=32613"></script>
+
                       
                     </div>
                   </div>
@@ -92,7 +95,7 @@
             </div>
             <!-- END site-->
             <!-- BEGIN SIDEBAR-->
-            <div class="sidebar">
+           {{--  <div class="sidebar">
               <div class="widget js-widget widget--sidebar">
                 <div class="widget__header">
                   <h2 class="widget__title">Filter</h2>
@@ -453,7 +456,7 @@
                   <!-- END SEARCH-->
                 </div>
               </div>
-            </div>
+            </div> --}}
             <!-- END SIDEBAR-->
             <div class="clearfix"></div>
           </div>

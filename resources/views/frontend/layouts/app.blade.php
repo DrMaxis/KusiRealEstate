@@ -1,9 +1,15 @@
+
+
+
 <!DOCTYPE html>
+<div id="idxStart"></div>
 @langrtl
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}" dir="rtl">
 @else
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 @endlangrtl
+
+
 @include('frontend.includes.head')
 
 
@@ -57,5 +63,5 @@
     {{-- --}} 
     @yield('xjs')
 </body>
-
+<div id="idxStop"></div>
 </html>

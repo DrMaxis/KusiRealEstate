@@ -21,7 +21,7 @@
             <ul class="navbar__nav">
               <li class="navbar__item"><a href="{{route('frontend.index')}}" class="navbar__link">Home</a></li>
               <li class="navbar__item js-dropdown">
-                <a  href="{{-- {{route('frontend.properties.index')}} --}}" class="navbar__link">
+                <a  href="{{route('frontend.properties.index')}} " class="navbar__link">
                          Properties
                 </a>
 
