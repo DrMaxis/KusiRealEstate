@@ -54,8 +54,8 @@
     {!! script(mix('js/frontend.js')) !!} 
 @stack('after-scripts') 
 
-<script type="text/javascript" src="http://maps.google.com/maps/api/js?libraries=places,drawing,geometry&key=AIzaSyAWIthRTDB8LhsvBtm_4ORggd9BM8Db8bU"></script>
-<script type="text/javascript" src="http://cdn.ckeditor.com/4.5.6/standard/ckeditor.js"></script>
+<script type="text/javascript" src="https://maps.google.com/maps/api/js?libraries=places,drawing,geometry&key=AIzaSyAWIthRTDB8LhsvBtm_4ORggd9BM8Db8bU"></script>
+<script type="text/javascript" src="https://cdn.ckeditor.com/4.5.6/standard/ckeditor.js"></script>
 <script type="text/javascript" src="{{asset('js/vendor/vendor.js')}}"></script>
 <script type="text/javascript" src="{{asset('js/vendor/base.js')}}"></script>
 <script type="text/javascript" src="{{asset('js/vendor/extras.js')}}"></script>
