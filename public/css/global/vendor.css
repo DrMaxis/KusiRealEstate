@@ -9599,7 +9599,7 @@ li.collapsed > ol.bonsai {
 }
 
 .slick-loading .slick-list {
-  background: #fff url("./../img/ajax-loader.gif") center center no-repeat;
+  background: #fff url("/img/frontend/icons/ajax-loader.gif") center center no-repeat;
 }
 
 .slick-list.dragging {
