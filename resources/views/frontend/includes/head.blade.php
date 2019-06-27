@@ -11,7 +11,7 @@
 
     
     <link
-        href="http://fonts.googleapis.com/css?family=Montserrat:400,700%7cSource+Sans+Pro:200,400,600,700,900,400italic,700italic&amp;subset=latin,latin-ext"
+        href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7cSource+Sans+Pro:200,400,600,700,900,400italic,700italic&amp;subset=latin,latin-ext"
         rel="stylesheet" type="text/css">
 
         <link rel="stylesheet" href="{{asset('css/global/vendor.css')}}">

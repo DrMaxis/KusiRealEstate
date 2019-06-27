@@ -1,6 +1,6 @@
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" style="background: #f6f6f6; color: #2c3e50; margin: 0; padding: 0;">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" style="background: #f6f6f6; color: #2c3e50; margin: 0; padding: 0;">
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <title>@lang('strings.emails.contact.email_body_title')</title>
@@ -19,7 +19,7 @@
               <td>
                 <p class="header__title" style="color: #ffffff; font-size: 15px; text-align: right;">Connect With Us</p>
               </td>
-              <td class="header__social" style="text-align: right;"><a href="http://facebook.com" class="header__link" style="color: #2c3e50; display: inline-block; margin: 5px 0 0 10px;"><img src="{{asset('img/frontend/icons/icon-facebook.png')}}" alt="" style="max-width: 100%;"></a><a href="http://twitter.com" class="header__link" style="color: #2c3e50; display: inline-block; margin: 5px 0 0 10px;"><img src="{{asset('img/frontend/icons/icon-twitter.png')}}" alt="" style="max-width: 100%;"></a><a href="http://google.com" class="header__link" style="color: #2c3e50; display: inline-block; margin: 5px 0 0 10px;"><img src="{{asset('img/frontend/icons/icon-google.png')}}" alt="" style="max-width: 100%;"></a></td>
+              <td class="header__social" style="text-align: right;"><a href="https://facebook.com" class="header__link" style="color: #2c3e50; display: inline-block; margin: 5px 0 0 10px;"><img src="{{asset('img/frontend/icons/icon-facebook.png')}}" alt="" style="max-width: 100%;"></a><a href="https://twitter.com" class="header__link" style="color: #2c3e50; display: inline-block; margin: 5px 0 0 10px;"><img src="{{asset('img/frontend/icons/icon-twitter.png')}}" alt="" style="max-width: 100%;"></a><a href="https://google.com" class="header__link" style="color: #2c3e50; display: inline-block; margin: 5px 0 0 10px;"><img src="{{asset('img/frontend/icons/icon-google.png')}}" alt="" style="max-width: 100%;"></a></td>
             </tr>
           </table>
         </td>

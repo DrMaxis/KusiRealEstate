@@ -6,7 +6,7 @@
 @endsection
 
 @section('prescripts') 
- <script type="text/javascript" src="http://maps.google.com/maps/api/js?libraries=places,drawing,geometry"></script> 
+ <script type="text/javascript" src="https://maps.google.com/maps/api/js?libraries=places,drawing,geometry"></script> 
 @endsection
 
 
