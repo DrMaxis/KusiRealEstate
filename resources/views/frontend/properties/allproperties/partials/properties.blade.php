@@ -93,7 +93,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="widget__footer"><a href="" class="widget__more js-properties-more">More listings</a></div>
+                <div class="widget__footer"><a href="http://pacificnorthlistings.idxbroker.com/idx/results/listings?hp=800000&amp;lp=200000&amp;pt=1&amp;idxID=a045&amp;idxsrp=30580&amp;per=100&amp;srt=pra" class="widget__more js-properties-more">More listings</a></div>
               </div>
             </div>
             <!-- END site-->
