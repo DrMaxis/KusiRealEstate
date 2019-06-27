@@ -2,7 +2,7 @@
 
 
 <!DOCTYPE html>
-<div id="idxStart"></div>
+
 @langrtl
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}" dir="rtl">
 @else
@@ -54,14 +54,16 @@
     {!! script(mix('js/frontend.js')) !!} 
 @stack('after-scripts') 
 
-
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?libraries=places,drawing,geometry&key=AIzaSyAWIthRTDB8LhsvBtm_4ORggd9BM8Db8bU"></script>
+<script type="text/javascript" src="http://cdn.ckeditor.com/4.5.6/standard/ckeditor.js"></script>
 <script type="text/javascript" src="{{asset('js/vendor/vendor.js')}}"></script>
 <script type="text/javascript" src="{{asset('js/vendor/base.js')}}"></script>
 <script type="text/javascript" src="{{asset('js/vendor/extras.js')}}"></script>
+
     @include('includes.partials.ga')
     
     {{-- --}} 
     @yield('xjs')
 </body>
-<div id="idxStop"></div>
+
 </html>

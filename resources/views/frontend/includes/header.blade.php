@@ -2,9 +2,7 @@
 <header class="header header--brand">
   <div class="container">
     <div class="header__row"><a href="index.html" class="header__logo">
-        <svg>
-          <use xlink:href="#icon-logo--mob"></use>
-        </svg></a>
+        <img src="/img/frontend/placeholders/logo2.png" alt="logo"></a>
       <div class="header__settings">
         {{--   <div class="header__settings-column">
                 <div class="header info-title">
@@ -21,17 +19,16 @@
 
       </div>
       <div class="header__contacts"><a href="tel:+12025550135" class="header__phone">
-          <svg class="header__phone-icon">
-            <use xlink:href="#icon-phone"></use>
-          </svg><span class="header__span">+1 480-278-3234</span></a></div>
+          <i class="fa fa-phone"></i>
+          <span class="header__span">+1 480-278-3234</span></a></div>
       <!-- end of block .header__contacts-->
       <div class="header__social">
-        <div class="social social--header social--circles"><a href="#" class="social__item"><i
+        <div class="social social--header "><a href="#" class="social__item"><i
               class="fab fa-facebook"></i></a><a href="#" class="social__item"><i class="fab fa-twitter"></i></a><a
             href="#" class="social__item"><i class="fab fa-google-plus-square"></i></a></div>
       </div>
       <div class="auth auth--header">
-        <ul class="auth__nav">
+       {{--  <ul class="auth__nav">
           <li class="dropdown auth__nav-item">
             <div class="dropdown__menu auth__dropdown--restore">
               <!-- BEGIN AUTH RESTORE-->
@@ -139,7 +136,7 @@
               <!-- END AUTH REGISTER-->
             </div>
           </li>
-        </ul>
+        </ul> --}}
         <!-- end of block .auth header-->
       </div>
       <button type="button" class="header__navbar-toggle js-navbar-toggle">

@@ -4,7 +4,7 @@
       <div class="container">
         <div class="navbar__row js-navbar-row">
             <div class="">
-                <p>
+              {{--   <p>
                   <span>
                       <h3>
                         <a href="{{route('frontend.index')}}" class="navbar__brand">
@@ -13,7 +13,13 @@
                       </h3>
                     
                   </span>
-                </p>
+                </p> --}}
+
+                <a href="{{route('frontend.index')}}" class="navbar__brand">
+                  
+                <img src="/img/frontend/placeholders/logo2.png" alt="" srcset="">
+                
+                </a>
               </div>
           
         
@@ -78,7 +84,7 @@
               </li> --}}
              
              
-              <li class="navbar__item"><a href="" class="navbar__link">Contact Us</a></li>
+              <li class="navbar__item"><a href="{{route('frontend.contact')}}" class="navbar__link">Contact Us</a></li>
               {{-- <li class="navbar__item js-dropdown"><a class="navbar__link">Dashboard
                   <svg class="navbar__arrow">
                     <use xlink:href="#icon-arrow-right"></use>

@@ -36,7 +36,7 @@
    */
   var mapOptions = {
     zoom: 10,
-    center: new google.maps.LatLng(33.74229160384012, -117.86845207214355),
+    center: new google.maps.LatLng(47.699527, -122.325697),
     // Disable scrolling wheel for usability purposes
     scrollwheel: false,
     zoomControl: true,

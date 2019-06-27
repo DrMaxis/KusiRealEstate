@@ -29,7 +29,7 @@ webpackJsonpapp([0],[
 	    }
 
 	    if (config.loadSvgWithAjax === true) {
-	      $(document.body).prepend($('<div>').load(config.assetsPathPrefix + 'img/sprite-inline.svg'));
+	      $(document.body).prepend($('<div>').load('/img/frontend/icons/sprite-inline.svg'));
 	    }
 
 	    __webpack_require__(/*! jquery */ 1);
@@ -2450,7 +2450,7 @@ webpackJsonpapp([0],[
 	  options = _.defaults(options, {
 	    animation: google.maps.Animation.DROP,
 	    icon: {
-	      url: config.assetsPathPrefix + 'img/marker/' + config.colorTheme + '.png',
+	      url:  '/img/frontend/icons/' + config.colorTheme + '.png',
 	      origin: new google.maps.Point(0, 0),
 	      anchor: new google.maps.Point(15, 47)
 	    }

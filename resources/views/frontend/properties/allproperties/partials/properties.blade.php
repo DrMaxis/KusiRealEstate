@@ -4,15 +4,16 @@
             <!-- BEGIN site-->
             <div class="site site--main" style="width:100% !important;">
               <header class="site__header">
-                <h1 class="site__title">All Properties</h1>
-                <h5 class="site__headline">{{count($properties)}} <strong> Properties found</strong></h5>
+                <h1 class="site__title" style="margin-bottom:50px;">All Properties</h1>
+               {{-- <h5 class="site__headline"> {{count($properties)}}  <strong>Last Updated {{ $now }} </strong></h5>--}}
               </header>
-              <button type="button" data-goto-target=".js-search-form" class="widget__btn--goto js-goto-btn">Show Filter</button>
+             {{--  <button type="button" data-goto-target=".js-search-form" class="widget__btn--goto js-goto-btn">Show Filter</button> --}}
               <div class="site__panel">
-                <div class="listing__sort">
+                  <h5 class="site__headline" style="color:white"><strong>Last Updated {{ $now }} </strong></h5>
+                {{--<div class="listing__sort">
                   <div class="form-group">
-                    <label for="in-listing-sort" class="control-label">Sort by:</label>
-                    <div class="form-control--select">
+                     <label for="in-listing-sort" class="control-label">Sort by:</label> 
+                     <div class="form-control--select">
                       <select id="in-listing-sort" class="form-control js-in-select">
                         <option>Price + P&amp;P: Highest First</option>
                         <option>Time: Ending Soonset</option>
@@ -26,12 +27,13 @@
                         <option>Condition: Used First</option>
                         <option>Best Match</option>
                       </select>
-                    </div>
+                    </div> 
                   </div>
-                </div>
+
+                </div>--}}
                 <!--end of block .listing__sort-->
-                <div class="listing__view"><span class="control-label">View:</span><a href="properties_listing_grid.html" class="btn--white active"><i class="fa fa-th-large"></i></a><a href="properties_listing_list.html" class="btn--white"><i class="fa fa-bars"></i></a><a href="properties_listing_table.html" class="btn--white"><i class="fa fa-table"></i></a></div>
-                <!--end of block .listing__view-->
+{{--                 <div class="listing__view"><span class="control-label">View:</span><a href="properties_listing_grid.html" class="btn--white active"><i class="fa fa-th-large"></i></a><a href="properties_listing_list.html" class="btn--white"><i class="fa fa-bars"></i></a><a href="properties_listing_table.html" class="btn--white"><i class="fa fa-table"></i></a></div>
+ --}}                <!--end of block .listing__view-->
               </div>
     {{--           <div class="listing__param"><span class="listing__param-item"><a class="listing__param-delete"></a>USA</span><span class="listing__param-item"><a class="listing__param-delete"></a>New Jersey</span><span class="listing__param-item"><a class="listing__param-delete"></a>New York City</span><span class="listing__param-item"><a class="listing__param-delete"></a>California</span><span class="listing__param-item"><a class="listing__param-delete"></a>Los Angeles</span><span class="listing__param-item"><a class="listing__param-delete"></a>For sale</span><span class="listing__param-item"><a class="listing__param-delete"></a>Privat apartment</span><span class="listing__param-item"><a class="listing__param-delete"></a>Price: $50k - $400k</span><span class="listing__param-item"><a class="listing__param-delete"></a>Area: 60 - 145 m2</span><span class="listing__param-item"><a class="listing__param-delete"></a>2 bedrooms</span><span class="listing__param-item"><a class="listing__param-delete"></a>3 bedrooms</span><span class="listing__param-item"><a class="listing__param-delete"></a>4 bedrooms<span class="listing__param-item"></span><a class="listing__param-delete"></a>Clear All</span></div>
      --}}          <!--end of block .listing__param-->

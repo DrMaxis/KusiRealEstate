@@ -12058,10 +12058,11 @@ mark {
 
 .form--banner-sidebar {
   padding: 30px;
-  background: rgba(255, 255, 255, 0.3);
+  background :#2c3e50;
   position: relative;
   -webkit-transition: 0.5s;
   transition: 0.5s;
+  color:white;
 }
 
 @media (max-width: 991px) {
@@ -15130,7 +15131,7 @@ div.wpcf7 img.ajax-loader {
 
 .banner--slider .banner__container {
   position: absolute;
-  top: 200px;
+  top: 15px;
   left: 0;
   right: 0;
 }
@@ -15140,7 +15141,7 @@ div.wpcf7 img.ajax-loader {
     padding-top: 130px;
     top: 0;
     position: relative;
-    background: url("../media-demo/banner/banner-1.jpg") 50% 0 no-repeat;
+    background: url("/img/frontend/placeholders/1.jpg") 50% 0 no-repeat;
     background-size: cover;
   }
 }
@@ -15154,7 +15155,7 @@ div.wpcf7 img.ajax-loader {
 
 @media (max-width: 991px) {
   .banner--slider .banner__container--auth {
-    background: url("../media-demo/banner/banner-4.jpg") 50% 0 no-repeat;
+    background: url("/img/frontend/placeholders/1.jpg") 50% 0 no-repeat;
   }
 }
 
@@ -18788,7 +18789,7 @@ fieldset[disabled] .dropdown--select .dropdown-toggle {
 }
 
 .feature__picture {
-  background: url("../img/bg-feature.jpg") 100% 0;
+  background: url("/img/frontend/placeholders/prop-no-img.jpg") 100% 0;
   background-repeat: no-repeat !important;
   background-size: cover;
   width: 44%;
