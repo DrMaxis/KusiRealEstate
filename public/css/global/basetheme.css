@@ -24254,9 +24254,9 @@ fieldset[disabled] .subscribe__field {
   }
 }
 
-.map--contacts {
+/* .map--contacts {
   min-height: 550px;
-}
+} */
 
 @media (max-width: 767px) {
   .map--contacts {
