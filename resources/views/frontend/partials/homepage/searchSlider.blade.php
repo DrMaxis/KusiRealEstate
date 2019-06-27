@@ -73,7 +73,7 @@
               <div class="container">
                 <div class="row">
                   <div class="banner__sidebar">
-                    <h4 class="banner__sidebar-title">Find Your Home</h4>
+                    <h4 class="banner__sidebar-title">Find The Perfect Home</h4>
                     <!-- BEGIN SEARCH-->
                     <form action="properties_listing_list.html" class="form form--flex form--search js-search-form form--banner-sidebar">
                             <script charset="UTF-8" type="text/javascript" id="idxwidgetsrc-30573" src="//pacificnorthlistings.idxbroker.com/idx/quicksearchjs.php?widgetid=30573"></script>
