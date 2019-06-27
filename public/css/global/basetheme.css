@@ -24260,7 +24260,7 @@ fieldset[disabled] .subscribe__field {
 
 @media (max-width: 767px) {
   .map--contacts {
-    min-height: 170px;
+    min-height: 105px;
   }
 }
 
