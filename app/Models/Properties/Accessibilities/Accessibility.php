@@ -26,4 +26,3 @@ class Accessibility extends Model
 }
 
 
-public f
