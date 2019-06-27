@@ -1,8 +1,8 @@
 <!-- BEGIN HEADER-->
 <header class="header header--brand">
   <div class="container">
-    <div class="header__row"><a href="index.html" class="header__logo">
-        <img src="/img/frontend/placeholders/logo2.png" alt="logo"></a>
+    <div class="header__row"><a href="{{route('frontend.index')}}" class="header__logo">
+        <img src="{{asset('img/frontend/placeholders/logo2.png')}}" alt="logo"></a>
       <div class="header__settings">
         {{--   <div class="header__settings-column">
                 <div class="header info-title">
