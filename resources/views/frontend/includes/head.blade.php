@@ -6,6 +6,7 @@
     <meta name="description" content="@yield('meta_description', 'Pacific North Properties')">
     <meta name="author" content="@yield('meta_author', 'Nathan Antwi')">
     <meta name="csrf-token" content="{{ csrf_token() }}">
+    <div id="idxStart"></div>
     @yield('meta')
     @yield('prescripts')
 
@@ -25,7 +26,7 @@
 
     @stack('after-styles')
 @yield('xcss')
-
+<div id="idxStop"></div>
 
 
 </head>
