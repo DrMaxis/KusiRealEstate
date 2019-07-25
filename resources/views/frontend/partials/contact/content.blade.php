@@ -7,56 +7,208 @@
                     contact form.</h5>
             </div>
             <div class="widget__content">
-                <div class="contacts">
-                    <div class="row">
-                        <div class="contacts__column">
-                            <div class="contacts__address">
-                                <address class="contacts__address-item"><span class="contacts__address-title">SEATTLE, WASHINGTON</span>
-                                    <dl class="contacts__address-column">
-                                        <dt class="contacts__address-column__title">Address:</dt>
-                                        <dd>1851 Central PL South Suite 116<br>Kent, WA 98030<br>USA</dd>
-                                    </dl>
-                                    <dl class="contacts__address-column">
-                                        <dt class="contacts__address-column__title">Telephone:</dt>
-                                        <dd>+1 480-278-3234<br>+1 480-278-3234</dd>
-                                        <dt class="contacts__address-column__title">Fax:</dt>
-                                        <dd>+1 480-278-3234</dd>
-                                    </dl>
-                                    <dl class="contacts__address-column">
-                                        <dt class="contacts__address-column__title">Email:</dt>
-                                        <dd><a href="mailto:">terrykusi@gmail.com</a><br><br></dd>
-                                       
-                                    </dl>
-                                </address>
+                    <div class="listing listing--grid  js-properties-list">
+    
+                           
+                            <div class="listing__item">
+                              <div class="properties properties--grid">
+                                <div class="properties__thumb">
+                                    <a style="text-align:center" class="item-photo"><img src="https://www.alphaconsultingengineers.com/images/icon_email.png" alt=""/>
+                                    </a>
+                                </div>
+                                <!-- end of block .properties__thumb-->
+                                <div class="properties__details">
+                                  <div class="properties__info">
+                                      <a style="text-align:center" class="properties__address"><span class="properties__address-street">Email Us</span></a>
+                                  
+                                  </div>
+                                </div>
+                                <!-- end of block .properties__info-->
+                              </div>
+                              <!-- end of block .properties__item-->
                             </div>
-                            @include('frontend.partials.contact.form')
-                        </div>
-                        <div class="contacts__column">
-                            <div class="contacts__body">
-                                <h4>Contact Us to Sign Up for an Open House</h4>
-                                <p>Pacific North has been helping people buy and sell real estate in the Puget
-                                    Sound region for over 30 years. We have hundreds of real estate brokers who
-                                    consistently produce well above the industry average due to ongoing training and
-                                    support.
-                                 </p> 
-                                    <p>
-                                        Our brokers are constantly growing through experience and education. Don't
-                                    settle for anything but the best professional service! Skyline's agents are involved
-                                    in 25% of all real estate transactions in the Puget Sound.
-                                </p>
-                            </div>
-                            <div class="contacts__social">
-                                <div class="social social--worker social--contacts"><span
-                                        class="contacts__social-title">Our social profiles:</span><a href="#"
-                                        class="social__item"><i class="fab fa-facebook"></i></a><a href="#"
-                                        class="social__item"><i class="fab fa-twitter"></i></a><a href="#"
-                                        class="social__item"><i class="fab fa-google-plus"></i></a></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+
+                            <div class="listing__item">
+                                    <div class="properties properties--grid">
+                                      <div class="properties__thumb">
+                                          <a style="text-align:center" class="item-photo"><img src="http://www.myiconfinder.com/uploads/iconsets/256-256-12918a9f351955eb3242ce0e52198993.png" alt=""/>
+                                          </a>
+                                      </div>
+                                      <!-- end of block .properties__thumb-->
+                                      <div class="properties__details">
+                                        <div class="properties__info">
+                                            <a style="text-align:center" class="properties__address"><span class="properties__address-street">Call Us</span></a>
+
+                                        </div>
+                                      </div>
+                                      <!-- end of block .properties__info-->
+                                    </div>
+                                    <!-- end of block .properties__item-->
+                                  </div>
+
+                                  
+                                  <div class="listing__item">
+                                        <div class="properties properties--grid">
+                                          <div class="properties__thumb"><a style="text-align:center" class="item-photo"><img src="https://freeiconshop.com/wp-content/uploads/edd/location-map-flat.png" alt=""/>
+                                             </a>
+                                          </div>
+                                          <!-- end of block .properties__thumb-->
+                                          <div class="properties__details">
+                                            <div class="properties__info">
+                                                <a style="text-align:center" class="properties__address"><span class="properties__address-street">Find Directions</span></a>
+               
+                                            </div>
+                                          </div>
+                                          <!-- end of block .properties__info-->
+                                        </div>
+                                        <!-- end of block .properties__item-->
+                                      </div>
+          
+                            
+                          
+                           
+           
+      
+      
+      
+                            
+                          </div>
             </div>
         </div>
         <div class="clearfix"></div>
     </div>
+
+    <div class="container">
+            <div class="row">
+              <!-- BEGIN site-->
+              <div class="site site--main" style="width:100%">
+                <header class="site__header">
+                  <h1 class="site__title" style="font-size:40px">What People Are Saying About Pacific North</h1>
+                  
+                </header>
+         
+                <div class="site__main">
+                  <div class="widget js-widget widget--main" style="border-top:0px">
+                    <div class="widget__content">
+                      <div class="listing listing--list">
+                        <div class="listing__item">
+                          <div class="review review--list">
+                            <div class="review__item">
+                              <div class="review__photo"><img src="{{asset('img/frontend/placeholders/no-img.jpg')}}" alt="ALT" class="review__photo-img"></div>
+                              <div class="review__details"><span class="review__name">Vanessa Kasinsky</span><span class="review__post">Brand Manager</span>
+                                <div class="review__stars"><i class="glyphicon glyphicon-star"></i><i class="glyphicon glyphicon-star"></i><i class="glyphicon glyphicon-star"></i><i class="glyphicon glyphicon-star"></i><i class="glyphicon glyphicon-star"></i></div>
+                              </div>
+                              <div class="review__info">
+                                <div class="review__info-quote review__info-quote--open">”</div>
+                                <p>Mariusz always addressed my questions professionally and in a very timely manner. Working with him was a pleasure and would come with my recommendation.Mariusz always addressed my questions professionally and in a very timely manner. Working with him was a pleasure and would come with my recommendation.
+                                </p>
+                                <div class="review__info-quote review__info-quote--close">“</div>
+                              </div>
+                              <div class="clearfix"></div>
+                              <!-- end of block .review__item-->
+                            </div>
+                          </div>
+                        </div>
+                        <div class="listing__item">
+                          <div class="review review--list">
+                            <div class="review__item">
+                              <div class="review__photo"><img src="{{asset('img/frontend/placeholders/no-img.jpg')}}" alt="ALT" class="review__photo-img"></div>
+                              <div class="review__details"><span class="review__name">Joseph Ryan</span><span class="review__post">Brand Manager</span>
+                                <div class="review__stars"><i class="glyphicon glyphicon-star"></i><i class="glyphicon glyphicon-star"></i><i class="glyphicon glyphicon-star"></i><i class="glyphicon glyphicon-star"></i><i class="glyphicon glyphicon-star"></i></div>
+                              </div>
+                              <div class="review__info">
+                                <div class="review__info-quote review__info-quote--open">”</div>
+                                <p>Mariusz always addressed my questions professionally and in a very timely manner. Working with him was a pleasure and would come with my recommendation.Mariusz always addressed my questions professionally and in a very timely manner. Working with him was a pleasure and would come with my recommendation.
+                                </p>
+                                <div class="review__info-quote review__info-quote--close">“</div>
+                              </div>
+                              <div class="clearfix"></div>
+                              <!-- end of block .review__item-->
+                            </div>
+                          </div>
+                        </div>
+                        <div class="listing__item">
+                          <div class="review review--list">
+                            <div class="review__item">
+                              <div class="review__photo"><img src="{{asset('img/frontend/placeholders/no-img.jpg')}}" alt="ALT" class="review__photo-img"></div>
+                              <div class="review__details"><span class="review__name">Caroline Reynolds</span><span class="review__post">Brand Manager</span>
+                                <div class="review__stars"><i class="glyphicon glyphicon-star"></i><i class="glyphicon glyphicon-star"></i><i class="glyphicon glyphicon-star"></i><i class="glyphicon glyphicon-star"></i><i class="glyphicon glyphicon-star"></i></div>
+                              </div>
+                              <div class="review__info">
+                                <div class="review__info-quote review__info-quote--open">”</div>
+                                <p>Mariusz always addressed my questions professionally and in a very timely manner. Working with him was a pleasure and would come with my recommendation.Mariusz always addressed my questions professionally and in a very timely manner. Working with him was a pleasure and would come with my recommendation.
+                                </p>
+                                <div class="review__info-quote review__info-quote--close">“</div>
+                              </div>
+                              <div class="clearfix"></div>
+                              <!-- end of block .review__item-->
+                            </div>
+                          </div>
+                        </div>
+                        <div class="listing__item">
+                          <div class="review review--list">
+                            <div class="review__item">
+                              <div class="review__photo"><img src="{{asset('img/frontend/placeholders/no-img.jpg')}}" alt="ALT" class="review__photo-img"></div>
+                              <div class="review__details"><span class="review__name">Ana Oliver</span><span class="review__post">Brand Manager</span>
+                                <div class="review__stars"><i class="glyphicon glyphicon-star"></i><i class="glyphicon glyphicon-star"></i><i class="glyphicon glyphicon-star"></i><i class="glyphicon glyphicon-star"></i><i class="glyphicon glyphicon-star"></i></div>
+                              </div>
+                              <div class="review__info">
+                                <div class="review__info-quote review__info-quote--open">”</div>
+                                <p>Mariusz always addressed my questions professionally and in a very timely manner. Working with him was a pleasure and would come with my recommendation.Mariusz always addressed my questions professionally and in a very timely manner. Working with him was a pleasure and would come with my recommendation.
+                                </p>
+                                <div class="review__info-quote review__info-quote--close">“</div>
+                              </div>
+                              <div class="clearfix"></div>
+                              <!-- end of block .review__item-->
+                            </div>
+                          </div>
+                        </div>
+                        <div class="listing__item">
+                          <div class="review review--list">
+                            <div class="review__item">
+                              <div class="review__photo"><img src="{{asset('img/frontend/placeholders/no-img.jpg')}}" alt="ALT" class="review__photo-img"></div>
+                              <div class="review__details"><span class="review__name">Vanessa Kasinsky</span><span class="review__post">Brand Manager</span>
+                                <div class="review__stars"><i class="glyphicon glyphicon-star"></i><i class="glyphicon glyphicon-star"></i><i class="glyphicon glyphicon-star"></i><i class="glyphicon glyphicon-star"></i><i class="glyphicon glyphicon-star"></i></div>
+                              </div>
+                              <div class="review__info">
+                                <div class="review__info-quote review__info-quote--open">”</div>
+                                <p>Mariusz always addressed my questions professionally and in a very timely manner. Working with him was a pleasure and would come with my recommendation.Mariusz always addressed my questions professionally and in a very timely manner. Working with him was a pleasure and would come with my recommendation.
+                                </p>
+                                <div class="review__info-quote review__info-quote--close">“</div>
+                              </div>
+                              <div class="clearfix"></div>
+                              <!-- end of block .review__item-->
+                            </div>
+                          </div>
+                        </div>
+                        <div class="listing__item">
+                          <div class="review review--list">
+                            <div class="review__item">
+                              <div class="review__photo"><img src="{{asset('img/frontend/placeholders/no-img.jpg')}}" alt="ALT" class="review__photo-img"></div>
+                              <div class="review__details"><span class="review__name">Joseph Ryan</span><span class="review__post">Brand Manager</span>
+                                <div class="review__stars"><i class="glyphicon glyphicon-star"></i><i class="glyphicon glyphicon-star"></i><i class="glyphicon glyphicon-star"></i><i class="glyphicon glyphicon-star"></i><i class="glyphicon glyphicon-star"></i></div>
+                              </div>
+                              <div class="review__info">
+                                <div class="review__info-quote review__info-quote--open">”</div>
+                                <p>Mariusz always addressed my questions professionally and in a very timely manner. Working with him was a pleasure and would come with my recommendation.Mariusz always addressed my questions professionally and in a very timely manner. Working with him was a pleasure and would come with my recommendation.
+                                </p>
+                                <div class="review__info-quote review__info-quote--close">“</div>
+                              </div>
+                              <div class="clearfix"></div>
+                              <!-- end of block .review__item-->
+                            </div>
+                          </div>
+                        </div>
+                     
+                      </div>
+                      <div class="widget__footer"><a href="" class="widget__more">More testimonials</a></div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <!-- END site-->
+          
+              <div class="clearfix"></div>
+            </div>
+          </div>
 </div>

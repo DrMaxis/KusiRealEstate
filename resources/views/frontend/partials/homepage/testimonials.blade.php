@@ -1,7 +1,7 @@
 
         <div class="widget js-widget widget--landing">
                 <div class="widget__header">
-                  <h2 class="widget__title">Testimonials</h2>
+                  <h2 class="widget__title">What Others Are Saying</h2>
                   <h5 class="widget__headline">Insights, tips & how-to guides on selling property and preparing your home or investment property for sale.</h5>
                 </div>
                 <div class="widget__content">

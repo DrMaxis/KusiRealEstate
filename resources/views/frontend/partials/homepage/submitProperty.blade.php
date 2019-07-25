@@ -8,7 +8,7 @@
                 <div class="gosubmit__title__row gosubmit__title__row--second"><span class="gosubmit__title__option">Sell</span>or<span class="gosubmit__title__option">Rent</span></div>
                 <div class="gosubmit__title__row gosubmit__title__row--third">Your Property?</div>
               </div>
-              <!-- end of block .gosubmit__title--><a href="my_listings_add_edit.html" class="gosubmit__btn">Submit now</a>
+              <!-- end of block .gosubmit__title--><a href="{{route('frontend.contact.sell')}}" class="gosubmit__btn">Submit now</a>
             </div>
           </div>
           <!-- END BLOCK GO SUBMIT-->

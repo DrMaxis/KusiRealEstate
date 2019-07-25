@@ -3,11 +3,11 @@
 @section('title', app_name() . ' | ' . __('labels.frontend.contact.box_title'))
 
 @section('content')
-   @include('frontend.partials.contact.breadcrumb')
+   @include('frontend.partials.sellhome.breadcrumb')
 
-   @include('frontend.partials.contact.map')
+ {{--   @include('frontend.partials.sellhome.map') --}}
 
-   @include('frontend.partials.contact.content')
+   @include('frontend.partials.sellhome.content')
    @include('frontend.includes.footer')
 @endsection
 
