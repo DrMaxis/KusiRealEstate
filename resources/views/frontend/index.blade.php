@@ -33,18 +33,19 @@
 
 @include('frontend.partials.homepage.featuredProperties')
 
-{{-- @include('frontend.partials.homepage.teamShowcase')
+ @include('frontend.partials.homepage.teamShowcase')
 
-@include('frontend.partials.homepage.agentsShowcase')
 
-@include('frontend.partials.homepage.achievements')
 
+
+@include('frontend.partials.homepage.submitProperty') 
 @include('frontend.partials.homepage.testimonials')
 
 @include('frontend.partials.homepage.partners')
 
-@include('frontend.partials.homepage.submitProperty') --}}
 
+@include('frontend.includes.footer')
+{{----}}
 @endsection
 
 
@@ -72,7 +73,8 @@ jQuery(window).load(function () {
          $('.IDX-qsTextInput').each(function(){
          $(this).addClass('form-control');
      });
-
+     $('.IDX-qsFieldWrap').addClass('form-group');
+     $('.IDX-qsTextInput').addClass('form-control');
      $('.IDX-qsButtonInput').addClass('form__submit');
      $('.IDX-qsButtonInput').css('margin-left', '0px');
      $('#IDX-quicksearch-30573').css('width', '100%');
