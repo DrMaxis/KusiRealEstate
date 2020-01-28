@@ -9046,7 +9046,7 @@ mark {
 
 .widget--footer .widget__title {
   font-size: 17px;
-  color: #ffdd57;
+  color: #33cccc;
   margin: 30px 0 15px;
   font-weight: 600;
   text-transform: uppercase;
@@ -11573,8 +11573,8 @@ mark {
   font-size: 15px;
   position: relative;
   border: none;
-  border-bottom: 4px solid #e9bb04;
-  background: #ffdd57;
+  border-bottom: 4px solid #00bbaa;
+  background: #33cccc;
   color: #222;
   margin-top: 10px;
   padding-left: 30px;
@@ -13223,6 +13223,7 @@ div.wpcf7 img.ajax-loader {
   height: 100%;
   margin: 0 auto;
   background: url("/img/frontend/icons/ajax-loader.gif") no-repeat center center;
+  max-height: 600px;
 }
 
 @media (max-width: 991px) {
@@ -15141,7 +15142,7 @@ div.wpcf7 img.ajax-loader {
     padding-top: 130px;
     top: 0;
     position: relative;
-    background: url("/img/frontend/placeholders/1.jpg") 50% 0 no-repeat;
+    background: url("/img/frontend/placeholders/house-03.jpg") 50% 0 no-repeat;
     background-size: cover;
   }
 }
@@ -15155,7 +15156,7 @@ div.wpcf7 img.ajax-loader {
 
 @media (max-width: 991px) {
   .banner--slider .banner__container--auth {
-    background: url("/img/frontend/placeholders/1.jpg") 50% 0 no-repeat;
+    background: url("/img/frontend/placeholders/house-03.jpg") 50% 0 no-repeat;
   }
 }
 
@@ -17511,7 +17512,7 @@ fieldset[disabled] .dropdown--select .dropdown-toggle {
 @media (min-width: 1200px) {
   .footer__col--first {
     float: left;
-    width: 41.66667%;
+    width: 50%;
   }
 }
 
@@ -17525,7 +17526,7 @@ fieldset[disabled] .dropdown--select .dropdown-toggle {
 @media (min-width: 1200px) {
   .footer__col--second {
     float: left;
-    width: 33.33333%;
+    width: 50%;
   }
 }
 
@@ -18928,7 +18929,7 @@ fieldset[disabled] .dropdown--select .dropdown-toggle {
   font-size: 20px;
   font-weight: 600;
   text-transform: uppercase;
-  color: #ffdd57;
+  color: #33cccc;
   margin-top: 10px;
 }
 
@@ -18973,7 +18974,7 @@ fieldset[disabled] .dropdown--select .dropdown-toggle {
 }
 
 .gosubmit .container {
-  background: url("../img/bg-gosubmit.png") no-repeat 23px -2px #fff !important;
+  background: url("/img/frontend/placeholders/bg-gosubmit.png") no-repeat 23px -2px #fff !important;
   min-height: 200px;
 }
 
