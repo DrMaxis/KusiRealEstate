@@ -26,8 +26,7 @@
       <div id="navbar-collapse-1" class="navbar__wrap">
         <ul class="navbar__nav">
           <li class="navbar__item"><a href="{{route('frontend.index')}}" class="navbar__link">Home</a></li>
-          <li class="navbar__item"><a href="{{route('frontend.properties.index')}}" class="navbar__link">Listings</a>
-          </li>
+          
           <li class="navbar__item ">
             <a href="{{route('frontend.contact.sell')}} " class="navbar__link">
               Sell Your Home

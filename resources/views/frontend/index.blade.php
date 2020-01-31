@@ -31,6 +31,7 @@
 
 @include('frontend.partials.homepage.searchSlider')
 
+{{--
 @include('frontend.partials.homepage.featuredProperties')
 
  @include('frontend.partials.homepage.teamShowcase')
@@ -44,8 +45,7 @@
 @include('frontend.partials.homepage.partners')
 
 
-@include('frontend.includes.footer')
-{{----}}
+@include('frontend.includes.footer')--}}
 @endsection
 
 

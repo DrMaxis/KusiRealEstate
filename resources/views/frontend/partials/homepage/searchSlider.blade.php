@@ -30,7 +30,7 @@
               <div class="container">
                 <div class="row">
                    <div class="">
-                          <a href="{{route('frontend.properties.index')}}" class="form__submit" style="    border: 4px solid #337ab7;
+                          <a href="{{route('frontend.contact.newbuyer')}}" class="form__submit" style="    border: 4px solid #337ab7;
                           background: #ffdd5700;
                           color: #ffffff;">Search For a Home</a>
                           <a  href="{{route('frontend.contact.sell')}}" class="form__submit" style="    border-bottom: 4px solid #337ab7;

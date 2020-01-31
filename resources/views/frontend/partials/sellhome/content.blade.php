@@ -159,20 +159,16 @@
                                             </div>
                                             <!-- end of block .feature__item-->
                                             <div class="feature__item" style="visibility: visible; ">
-                                                <svg class="feature__icon feature__icon--good-sales">
-                                                    <use xlink:href="#icon-good-sales"></use>
+                                                <svg class="feature__icon">
+                                                  <use xlink:href="#icon-easy"></use>
                                                 </svg>
                                                 <div class="feature__item-content">
-                                                    <h3 class="feature__item-title">Good sales&amp;marketing
-                                                    </h3>
-                                                    <div class="feature__text">
-                                                        <p>In addition, RealtySpace operates the largest
-                                                            real estate and rental advertising
-                                                            networks in the U.S. in partnership with
-                                                            Livemile Homes!</p>
-                                                    </div>
+                                                  <h3 class="feature__item-title">Easy to find</h3>
+                                                  <div class="feature__text">
+                                                    <p>It starts with our living database of more than 110 million U.S. homes – including homes for sale, homes for rent and homes not currently on the market.</p>
+                                                  </div>
                                                 </div>
-                                            </div>
+                                              </div>
                                             <!-- end of block .feature__item-->
     
     
