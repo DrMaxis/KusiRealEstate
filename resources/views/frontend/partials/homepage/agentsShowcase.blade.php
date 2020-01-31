@@ -1,6 +1,6 @@
 <div class="widget js-widget widget--landing widget--gray">
         <div class="widget__header">
-          <h2 class="widget__title">Our Agents</h2>
+          <h2 class="widget__title">Meet The Team</h2>
           <h5 class="widget__headline">Our agents are licensed professionals that specialise in searching, evaluating and negotiating the purchase of property on behalf of the buyer. They will sell you real estate. Insights, tips & how-to guides on selling property and preparing your home or investment property for sale and working to maximise your sale price.</h5>
         </div>
         <div class="widget__content">

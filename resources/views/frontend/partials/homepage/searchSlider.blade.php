@@ -32,10 +32,10 @@
                    <div class="">
                           <a href="{{route('frontend.contact.newbuyer')}}" class="form__submit" style="    border: 4px solid #337ab7;
                           background: #ffdd5700;
-                          color: #ffffff;">Search For a Home</a>
+                          color: #ffffff;">Find A New Home</a>
                           <a  href="{{route('frontend.contact.sell')}}" class="form__submit" style="    border-bottom: 4px solid #337ab7;
                           background: #2980b9;
-                          color: #fff;">Get Your Home Value</a>
+                          color: #fff;">Get Your Home's Value</a>
                         </div>
                   <div class="banner__sidebar">
                      

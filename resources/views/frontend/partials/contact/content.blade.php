@@ -13,13 +13,13 @@
                             <div class="listing__item">
                               <div class="properties properties--grid">
                                 <div class="properties__thumb">
-                                    <a style="text-align:center" class="item-photo"><img src="https://www.alphaconsultingengineers.com/images/icon_email.png" alt=""/>
+                                    <a href="mailto:TeamPacific@PacificNorthListings.com" style="text-align:center" class="item-photo"><img src="{{asset('img/frontend/icons/email.png')}}" alt=""/>
                                     </a>
                                 </div>
                                 <!-- end of block .properties__thumb-->
                                 <div class="properties__details">
                                   <div class="properties__info">
-                                      <a style="text-align:center" class="properties__address"><span class="properties__address-street">Email Us</span></a>
+                                      <a href="mailto:TeamPacific@PacificNorthListings.com" style="text-align:center" class="properties__address"><span class="properties__address-street">Email Our Office</span></a>
                                   
                                   </div>
                                 </div>
@@ -31,13 +31,13 @@
                             <div class="listing__item">
                                     <div class="properties properties--grid">
                                       <div class="properties__thumb">
-                                          <a style="text-align:center" class="item-photo"><img src="http://www.myiconfinder.com/uploads/iconsets/256-256-12918a9f351955eb3242ce0e52198993.png" alt=""/>
+                                          <a  href="tel:+1 4802783234" style="text-align:center" class="item-photo"><img src="{{asset('img/frontend/icons/phone.png')}}" alt=""/>
                                           </a>
                                       </div>
                                       <!-- end of block .properties__thumb-->
                                       <div class="properties__details">
                                         <div class="properties__info">
-                                            <a style="text-align:center" class="properties__address"><span class="properties__address-street">Call Us</span></a>
+                                            <a  href="tel:+1 4802783234" style="text-align:center" class="properties__address"><span class="properties__address-street">Call Our Office</span></a>
 
                                         </div>
                                       </div>
@@ -49,13 +49,13 @@
                                   
                                   <div class="listing__item">
                                         <div class="properties properties--grid">
-                                          <div class="properties__thumb"><a style="text-align:center" class="item-photo"><img src="https://freeiconshop.com/wp-content/uploads/edd/location-map-flat.png" alt=""/>
+                                          <div class="properties__thumb"><a href="https://www.google.com/search?sxsrf=ACYBGNSeXAfw4qCY6CvH6cLrCAAu5Ekp9Q:1580500360215&q=Skyline+Properties+Inc+Kent&stick=H4sIAAAAAAAAAONgecSYyS3w8sc9YamESWtOXmOM4uIKzsgvd80rySypFPLhYoOyFLj4pbj10_UNS5KrCg1LjDQYpHi5kAWkFJS4eJVeW8mIPnNX3a4lxCnv8TncPXJCiGBGvtS_js0_fXgWsUoHZ1fmZOalKgQU5RekFpVkphYreOYlK3in5pUAADjFBoOMAAAA&sa=X&ved=2ahUKEwi0wKbUzq7nAhUPa80KHYdBDpUQ6RMwDHoECA0QBA&sxsrf=ACYBGNSeXAfw4qCY6CvH6cLrCAAu5Ekp9Q:1580500360215&biw=1920&bih=930#" style="text-align:center" class="item-photo"><img src="{{asset('img/frontend/icons/location-map-flat.png')}}" alt=""/>
                                              </a>
                                           </div>
                                           <!-- end of block .properties__thumb-->
                                           <div class="properties__details">
                                             <div class="properties__info">
-                                                <a style="text-align:center" class="properties__address"><span class="properties__address-street">Find Directions</span></a>
+                                                <a style="text-align:center" href="https://www.google.com/search?sxsrf=ACYBGNSeXAfw4qCY6CvH6cLrCAAu5Ekp9Q:1580500360215&q=Skyline+Properties+Inc+Kent&stick=H4sIAAAAAAAAAONgecSYyS3w8sc9YamESWtOXmOM4uIKzsgvd80rySypFPLhYoOyFLj4pbj10_UNS5KrCg1LjDQYpHi5kAWkFJS4eJVeW8mIPnNX3a4lxCnv8TncPXJCiGBGvtS_js0_fXgWsUoHZ1fmZOalKgQU5RekFpVkphYreOYlK3in5pUAADjFBoOMAAAA&sa=X&ved=2ahUKEwi0wKbUzq7nAhUPa80KHYdBDpUQ6RMwDHoECA0QBA&sxsrf=ACYBGNSeXAfw4qCY6CvH6cLrCAAu5Ekp9Q:1580500360215&biw=1920&bih=930#" class="properties__address"><span class="properties__address-street">Get Directions To Our Office</span></a>
                
                                             </div>
                                           </div>
@@ -201,7 +201,7 @@
                         </div>
                      
                       </div>
-                      <div class="widget__footer"><a href="" class="widget__more">More testimonials</a></div>
+                     {{--  <div class="widget__footer"><a href="" class="widget__more">More testimonials</a></div> --}}
                     </div>
                   </div>
                 </div>
