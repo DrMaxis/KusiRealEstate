@@ -18,7 +18,7 @@
               </div> --}}
 
       </div>
-      <div class="header__contacts"><a href="tel:+12025550135" class="header__phone">
+      <div class="header__contacts"><a href="tel:+1 4802783234"  class="header__phone">
           <i class="fa fa-phone"></i>
           <span class="header__span">+1 480-278-3234</span></a></div>
       <!-- end of block .header__contacts-->
