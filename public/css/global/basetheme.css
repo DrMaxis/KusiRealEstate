@@ -17572,6 +17572,7 @@ fieldset[disabled] .dropdown--select .dropdown-toggle {
   margin-bottom: 45px !important;
   display: block;
   padding: 0 15px;
+  text-align: center;
 }
 
 @media (max-width: 767px) {

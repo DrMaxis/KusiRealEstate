@@ -8,7 +8,7 @@
                   <h2 class="widget__title">Menu</h2>
                 </div>
                 <div class="widget__content">
-                  <nav class="nav nav--footer"><a href="{{route('frontend.index')}}">Home</a><a href="{{route('frontend.properties.index')}}">All Listings</a><a href="{{route('frontend.contact.sell')}}">Sell A Home</a><a href="{{route('frontend.newbuyer')}}">First Time Buyers</a></nav>
+                  <nav class="nav nav--footer"><a href="{{route('frontend.index')}}">Home</a><a href="{{route('frontend.contact.sell')}}">Sell A Home</a><a href="{{route('frontend.contact.newbuyer')}}">First Time Buyers</a></nav>
                   <!-- end of block .nav-footer-->
                 </div>
               </div>
@@ -21,7 +21,7 @@
                           <div class="textwidget">
                                   Pacific North has been helping people buy and sell real estate in the Puget Sound region for over 30 years.
                             <p> We have hundreds of real estate brokers who consistently produce well above the industry average due to ongoing training and support.</p>
-                            <p><a>Read more</a></p>
+                           {{--  <p><a>Read more</a></p> --}}
                           </div>
                           
                         </aside>
@@ -43,7 +43,7 @@
                   <!-- end of block .address-->
                 </div>
               </div>
-              <div class="widget js-widget widget--footer">
+             {{--  <div class="widget js-widget widget--footer">
                 <div class="widget__header">
                   <h2 class="widget__title">Feedback</h2>
                 </div>
@@ -67,7 +67,7 @@
                   <!-- end of block .form__wrap-->
                   <!-- END SECTION FEEDBACK-->
                 </div>
-              </div>
+              </div> --}}
             </div>
             <!--end of block .footer__col-second-->
             

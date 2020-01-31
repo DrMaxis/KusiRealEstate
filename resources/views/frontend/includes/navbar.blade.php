@@ -33,7 +33,7 @@
             </a>
 
           </li>
-          <li class="navbar__item"><a href="{{route('frontend.newbuyer')}}" class="navbar__link">New Home Buyer</a></li>
+          <li class="navbar__item"><a href="{{route('frontend.contact.newbuyer')}}" class="navbar__link">New Home Buyer</a></li>
 
           <li class="navbar__item"><a href="{{route('frontend.mortgage')}}" class="navbar__link">Mortgage Calculator</a>
           </li>
